@@ -30,3 +30,6 @@ var renderSinhVien = function(){
     });
 }
 renderSinhVien();
+var themsinhvien = function(){
+    console.log("Thêm sinh viên");
+}
