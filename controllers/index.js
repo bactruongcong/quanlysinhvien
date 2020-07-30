@@ -39,3 +39,4 @@ var themsinhvien = function () {
 var xoaSinhVien = function () {
   console.log("Xóa sinh viên");
 };
+Vua chinh sua
